@@ -1,0 +1,6 @@
+com\Tkbooking\Tkbooking\controller\MovieController.class
+com\Tkbooking\Tkbooking\controller\SignupController.class
+com\Tkbooking\Tkbooking\ServletInitializer.class
+com\Tkbooking\Tkbooking\controller\LoginController.class
+com\Tkbooking\Tkbooking\controller\DashboardController.class
+com\Tkbooking\Tkbooking\TkbookingApplication.class
